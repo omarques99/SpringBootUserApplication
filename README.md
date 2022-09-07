@@ -8,3 +8,28 @@ This project uses programming languages like JavaScript and HTML for the front e
 back-end idea, and manipulation of data.
 
 This is just a simple starting application using concepts like springboot, hibernate, JWT, API Rest, and database.
+
+Files implemented include:
+ FRONT-END
+- users.html
+- login.html
+- register.html
+- login.js
+- register.js
+- Users.js
+
+BACK-END
+
+  Controllers
+- UserController.java
+- AuthController.java
+
+  Data Access Object
+- UserDao.java
+- UserDaoImplementation.java
+
+  Model
+- User.java
+
+  Utils
+- JWTUtil.java
