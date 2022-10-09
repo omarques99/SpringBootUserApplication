@@ -20,16 +20,16 @@ Files implemented include:
 
 BACK-END
 
-  "Controllers"
+ -------- "Controllers" ------------
 - UserController.java
 - AuthController.java
 
-  "Data Access Object"
+----------  "Data Access Object"-----------
 - UserDao.java
 - UserDaoImplementation.java
 
-  "Model"
+----------  "Model" -----------
 - User.java
 
-  "Utils"
+----------- "Utils" -----------
 - JWTUtil.java
